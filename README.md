@@ -1,4 +1,4 @@
-# GoogleDriveInterfacing
+# Google Drive Interfacing
 
 
 This program allows the user to upload and download files from Google Drive using the Google Drive API. Functions include
